@@ -15,8 +15,8 @@ Endlessly curious.\
 I love dogs and the mountains!
 
 #### Recent Work Experience
-- Developing explainability layers for generative LLMs, focusing on detecting misleading natural language explanations.
-- Applied DS on biomedical & Twitter data; built evidence retrieval components for a fact-checking pipeline.
+- Developed explainability for generative LLMs, focusing on detecting misleading natural language explanations.
+- Data Science things on biomedical & Twitter data: built evidence retrieval components for a fact-checking pipeline.
 
 \
 👀 **NOW --** Personal Projects | Upskilling | **On the lookout a fitting MLE/DS role (NLP)**
