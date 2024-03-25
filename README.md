@@ -1,5 +1,5 @@
 ## Hey hey!
-### 🛬 You've landed on Sof's GitHub 
+#### 🛬 You've landed on Sof's GitHub 
 
 I am an **NLP Engineer** based in **Paris**, France. I specialise in:
 - Large Language Models (LLMs)
@@ -10,15 +10,15 @@ I am an **NLP Engineer** based in **Paris**, France. I specialise in:
 
 #### About me
 I recently completed my **MSc in Computational Linguistics** in _Stuttgart_, Germany. Previously, I studied Linguistics in _York_, UK. I am originally from the _Romagna_ region of Italy.
-...I like learning languages and international environments! 🗺️
 
-- Endlessly curious.
-- I love dogs and the mountains!
+Endlessly curious.\
+I love dogs and the mountains!
 
 #### Recent Work Experience
 - Developing explainability layers for generative LLMs, focusing on detecting misleading natural language explanations.
 - Applied DS on biomedical & Twitter data; built evidence retrieval components for a fact-checking pipeline.
 
-👀 *NOW:* Personal Projects | Upskilling | On the lookout a fitting **MLE/DS role (NLP)**
+\
+👀 **NOW --** Personal Projects | Upskilling | **On the lookout a fitting MLE/DS role (NLP)**
 
 👉 [My LinkedIn](https://www.linkedin.com/in/sofi-casadei/)
