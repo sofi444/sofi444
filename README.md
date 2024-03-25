@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hey hey!
+### 🛬 You've landed on Sof's GitHub 
 
-<!--
-**sofi444/sofi444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **NLP Engineer** based in **Paris**, France. I specialise in:
+- Large Language Models (LLMs)
+- eXplainable AI (XAI)
+- Retrieval Augmented Generation (RAG)
+- Knowledge Engineering
+- Structuring Unstructured Data
 
-Here are some ideas to get you started:
+#### About me
+I recently completed my **MSc in Computational Linguistics** in _Stuttgart_, Germany. Previously, I studied Linguistics in _York_, UK. I am originally from the _Romagna_ region of Italy.
+...I like learning languages and international environments! 🗺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Endlessly curious.
+- I love dogs and the mountains!
+
+#### Recent Work Experience
+- Developing explainability layers for generative LLMs, focusing on detecting misleading natural language explanations.
+- Applied DS on biomedical & Twitter data; built evidence retrieval components for a fact-checking pipeline.
+
+👀 *NOW:* Personal Projects | Upskilling | On the lookout a fitting **MLE/DS role (NLP)**
+
+👉 [My LinkedIn](https://www.linkedin.com/in/sofi-casadei/)
