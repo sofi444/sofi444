@@ -14,10 +14,6 @@ I recently completed my **MSc in Computational Linguistics** in _Stuttgart_ 🇩
 Endlessly curious 🚀 \
 I love animals and the mountains! 🐾 ⛰
 
-#### Recent Work Experience
-- Developed explainability for generative LLMs, focusing on detecting misleading natural language explanations.\
-- Data Science things on biomedical & Twitter data: built evidence retrieval components for a fact-checking pipeline.
-
 \
 👀 **NOW --** NLP Engineer @ RAKAM AI
 
