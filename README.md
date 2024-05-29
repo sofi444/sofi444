@@ -19,6 +19,6 @@ I love animals and the mountains! 🐾 ⛰
 - Data Science things on biomedical & Twitter data: built evidence retrieval components for a fact-checking pipeline.
 
 \
-👀 **NOW --** Personal Projects | Upskilling | **On the lookout a fitting MLE/DS role (NLP)**
+👀 **NOW --** NLP Engineer @ RAKAM AI
 
 👉 [My LinkedIn](https://www.linkedin.com/in/sofi-casadei/)
