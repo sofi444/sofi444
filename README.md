@@ -1,16 +1,21 @@
-### Hi there 👋
+## 🛬 Hey hey!
 
-<!--
-**sofi444/sofi444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Sof (aka sofdog) - welcome!
 
-Here are some ideas to get you started:
+`AI/ML Engineer x Computational Linguist`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working at RAKAM AI (Paris, 🇫🇷), where we create custom AI solutions for businesses in various domains.
+
+Before:
+- MSc in Computational Linguistics (Stuttgart, 🇩🇪) + BMW
+- Also 🇮🇹, 🇬🇧
+
+Interested in everything NLP - these days I am working on:
+- LLMs: integration, deployment, evaluation
+- Agentic Systems
+- Speech: conversational AI, ASR, TTS
+- Explainable AI
+- Graphs! ❄️
+
+Feel free to have a look around and get in touch if you'd like :)
+👉 [My LinkedIn](https://www.linkedin.com/in/sofi-casadei/)
